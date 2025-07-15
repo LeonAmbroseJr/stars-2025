@@ -4,6 +4,10 @@ title: Meet Our Team
 nav_order: 2
 ---
 
+<img  
+  src="https://media.licdn.com/dms/image/v2/D5622AQEqggMIxurKHQ/feedshare-shrink_1280/B56ZcdFkc2G0Ak-/0/1748539689583?e=1755734400&v=beta&t=WqHKkYXX0Ocypc7gHnFcBa4cr3mKtQxwpveKJZ6rT14"
+  width="750">
+
 ## ESIIL
 
 ### **Nate Quarderer** 
