@@ -7,7 +7,7 @@ nav_order: 1
 
 <img src="img/ESIIL_Stars_logo.png" height="150px" />
 
-# Welcome to the <a href="https://esiil.org/esiil-stars" target="_blank">**ESIIL Stars**</a> Internship 2024! 
+# Welcome to the <a href="https://esiil.org/esiil-stars" target="_blank">**ESIIL Stars**</a> Internship 2025! 
 
 We are excited to have you in class for the next 5 months as we introduce you to **Earth and Environmental Data Science (EDS)** fundamentals using <a href="https://www.python.org/" target="_blank">**Python**</a>. 
 
