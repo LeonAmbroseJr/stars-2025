@@ -71,26 +71,15 @@ nav_order: 2
 
 ### **Faculty Mentors** 
 
-### **Sylvia Brady**
+### **Andong Ma**
 <img 
   style="float: right;" 
-  src="https://avatars.githubusercontent.com/u/86791108?s=400&u=905e17cf3d868a13cd944d7be4508acb2a590668&v=4" 
+  src="LINK-TO-IMAGE-GOES-HERE" 
   width="125" height="125">
   
-  * Senior Lecturer of Geography
-  * <a href="mailto: sbrady16@msudenver.edy" target="_blank">**Email**</a>
-  * <a href="https://sarriaga920.github.io">**Website**</a>
-
-### **David Parr** 
-
-<img 
-  style="float: right;" 
-  src="https://daveparr.com/wp-content/uploads/2023/12/1629988354360.jpg" 
-  width="132" height="125">
-  
-  * Senior Lecturer of Geography and GIS
-  * <a href="mailto: githubesiil@fishslappingdance.com" target="_blank">**Email**</a>
-  * <a href="https://daveparr.com/" target="_blank">**Website**</a>
+  * TITLE-GOES-HERE
+  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
+  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
 
 ***
 
@@ -99,63 +88,75 @@ nav_order: 2
 (please add your profiles)
 
 
-### **Paw Moo** 
+### **Noah Cowperthwaite** 
 
 <img 
   style="float: right;" 
-  src="https://github.com/PawHEKMoo/PawHEKMoo.github.io/blob/main/img/me3.jpeg?raw=true" 
+  src="LINK-TO-IMAGE-GOES-HERE" 
   width="125" height="125">
   
-  * Environmental Science - Senior
-  * <a href="mailto:pmoo1@msudenver.edu" target="_blank">**Email**</a>
-  * <a href="https://pawhekmoo.github.io/" target="_blank">**Website**</a>
+  * TITLE-GOES-HERE
+  * <a href="LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
+  * <a href="LINK-TO-GITHUB-GOES-HERE" target="_blank">**Website**</a>
 
 ***
 
-###  **Tesia Mancosky**
+###  **Adam Lehman**
 
 <img 
   style="float: right;" 
-  src="https://avatars.githubusercontent.com/u/167322827?v=4" 
-  width="125">
+  src="LINK-TO-IMAGE-GOES-HERE" 
+  width="125" height="125">
   
-  * Applied Geology - Senior
-  * <a href="mailto:tmancosk@msudenver.edu" target="_blank">**Email**</a>
-  * <a href="https://tes-ani.github.io/" target="_blank">**Website**</a>
+  * TITLE-GOES-HERE
+  * <a href="LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
+  * <a href="LINK-TO-GITHUB-GOES-HERE" target="_blank">**Website**</a>
 
 ***
 
-### **Riley Sundberg** 
+### **Kevin Morales** 
 
 <img 
   style="float: right;" 
-  src="https://github.com/riley-sundberg022/riley-sundberg22.github.io/blob/main/img/RiBeav.jpg?raw=true" 
+  src="LINK-TO-IMAGE-GOES-HERE" 
   width="125" height="125">
   
-  * BS of Biology- Senior
-  * <a href="mailto:riley.sundberg22@gmail.com" target="_blank">**Email**</a>
-  * <a href="https://riley-sundberg022.github.io/riley-sundberg22.github.io/">**Website**</a>
-
+  * TITLE-GOES-HERE
+  * <a href="LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
+  * <a href="LINK-TO-GITHUB-GOES-HERE" target="_blank">**Website**</a>
   ***
   
-### **Rachel Sadler**
-
-  <img
-    style="float: right;" 
-    src="https://rachelsadler.github.io/img/profilephoto.jpg" 
-    width="125" height="125">
-  
-  * GIS Certificate 
-  * <a href="mailto:rsadler4@msudenver.edu" target="_blank">**Email**</a>
-  * <a href="https://rachelsadler.github.io/" target="_blank">**Website**</a>
 
 ***
+
 ## Oglala Lakota College (OLC)
 
 ![Oglala Lakota College](https://www.olc.edu/theme/olc/images/logo.png)
 
 ### **Faculty Mentors** 
-(please add your profiles)
+
+### **Dana Gehring**
+<img 
+  style="float: right;" 
+  src="LINK-TO-IMAGE-GOES-HERE" 
+  width="125" height="125">
+  
+  * TITLE-GOES-HERE
+  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
+  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
+
+***
+
+### **Camille Griffith**
+<img 
+  style="float: right;" 
+  src="LINK-TO-IMAGE-GOES-HERE" 
+  width="125" height="125">
+  
+  * TITLE-GOES-HERE
+  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
+  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
+  
 
 ***
 
@@ -164,58 +165,87 @@ nav_order: 2
 
 
 
-### **Angelina Wade** 
+### **Theodora Charging Crow** 
 
 <img 
   style="float: right;" 
-  src="https://github.com/angelinawade12/angelinawade12.github.io/blob/main/img/professional_photo.jpg?raw=true" 
+  src="LINK-TO-IMAGE-GOES-HERE" 
   width="125" height="125">
   
-  * Indian Law - Sophmore
-  * <a href="mailto: awade29716@olc.edu" target="_blank">**Email**</a>
-  * <a href="https://angelinawade12.github.io/" target="_blank">**Website**</a>
+  * TITLE-GOES-HERE
+  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
+  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
   
 ***
 
-### **Summer Rain Afraid Of Hawk**
+### **Calob Two Hearts**
 
 <img 
   style="float: right;" 
-  src="https://github.com/SummerAfraidofHawk/SummerAfraidofHawk.github.io/blob/main/img/Buffalo%20Harvest.jpg?raw=true" 
+  src="LINK-TO-IMAGE-GOES-HERE" 
   width="125" height="125">
   
+  * TITLE-GOES-HERE
+  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
+  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
 
-  * Natural Science emphasis Conservation Biology - Senior
-  * <a href="mailto: safraid19582@olc.edu" target="_blank">**Email**</a>
-  * <a href="https://summerafraidofhawk.github.io/" target="_blank">**Website**</a>
+
+***
+
+### **Leon Red Kettle**
+
+<img 
+  style="float: right;" 
+  src="LINK-TO-IMAGE-GOES-HERE" 
+  width="125" height="125">
   
+  * TITLE-GOES-HERE
+  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
+  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
 
-## United Tribes Technical College (UTTC)
 
-<img src="https://uttc.edu/wp-content/uploads/2021/04/uttc-logo-long.png">
+***
+
+### **Johnnie Plentybull**
+
+<img 
+  style="float: right;" 
+  src="LINK-TO-IMAGE-GOES-HERE" 
+  width="125" height="125">
+  
+  * TITLE-GOES-HERE
+  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
+  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
+
+***
+
+## Haskell Indian Nations University
+
+<img src="https://tribalcollegejournal.org//wp-content/uploads/HaskellIndianNations.jpg">
 
 ### **Faculty Mentors** 
-### **Jess Logan** 
+
+### **Stephanie Willis** 
 <img 
   style="float: right;" 
-  src="https://jlogannd.github.io/img/IMG_8030.jpg"
-  width="125">
+  src="LINK-TO-IMAGE-GOES-HERE" 
+  width="125" height="125">
   
-  * Business Administration Instructor
-  * <a href="mailto: jlogan@uttc.edu" target="_blank">**Email**</a>
-  * <a href="https://jlogannd.github.io/" target="_blank">**Website**</a>
+  * TITLE-GOES-HERE
+  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
+  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
 
 ***
 
-### **Emily Biggane, PhD** 
+### **Alex Williams** 
 <img 
   style="float: right;" 
-  src="https://avatars.githubusercontent.com/u/66485414?s=400&u=00070fe128f50bf4ac6930de6978be1a4d463abc&v=4"
-  width="125">
+  src="LINK-TO-IMAGE-GOES-HERE" 
+  width="125" height="125">
   
-  * Research Faculty, Intertribal Research and Resource Center
-  * <a href="mailto: ebiggane@uttc.edu" target="_blank">**Email**</a>
-  * <a href="https://ebiggane.github.io/EBiggane_ESIIL_Stars_webpage/" target="_blank">**Website**</a>  
+  * TITLE-GOES-HERE
+  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
+  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>  
 
 ***
 
@@ -223,64 +253,116 @@ nav_order: 2
 (please add your profiles)
 
 
-### **Marshall Smith**
+### **Shawn Bird**
 <img 
   style="float: right;" 
-  src="https://avatars.githubusercontent.com/u/166548468?v=4" 
+  src="LINK-TO-IMAGE-GOES-HERE" 
   width="125" height="125">
   
-  * Environmental Science & Research - Senior
-  * <a href="mailto: smith.marshall@stu.uttc.edu" target="_blank">**Email**</a>
-  * <a href="https://orduck31.github.io/" target="_blank">**Website**</a>
+  * TITLE-GOES-HERE
+  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
+  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
 
 ***
 
-### **Abraham Weasel**
+### **Jesus Resendiz**
 <img 
   style="float: right;" 
-  src="https://avatars.githubusercontent.com/u/166767167?v=4" 
+  src="LINK-TO-IMAGE-GOES-HERE" 
   width="125" height="125">
   
-  * Computer Information Technology
-  * <a href="mailto: weasel.abraham@stu.uttc.edu" target="_blank">**Email**</a>
-  * <a href="https://abrahamweasel.github.io/" target="_blank">**Website**</a>
+  * TITLE-GOES-HERE
+  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
+  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
   
 ***
 
-### **Ebony Schultz**
-<img  
-  style="float: right;" 
-  src="https://avatars.githubusercontent.com/u/166164323?v=4" 
-  width="125" height="125"> 
-
-  * Environmental Science & Research - Junior
-  * <a href="mailto: schultz.ebony@stu.uttc.edu" target="_blank">**Email**</a>
-  * <a href="https://ESchultz2024.github.io/" target="_blank">**Website**</a>
 
 ***
 
-### **Skylar Albers**
+## San Carlos Apache College / Tohono O’odham Community College
+
+<img src="https://media.licdn.com/dms/image/v2/C4D0BAQF0ByCqA3tPsw/company-logo_200_200/company-logo_200_200/0/1679064540779/sancarlosapachecollege_logo?e=2147483647&v=beta&t=bbkfnuNTmUI4IvVZ1eKXIQc22DPGeVkYYebYUsyiSJw">
+<img src="https://wsos-cdn.s3.us-west-2.amazonaws.com/uploads/sites/90/graphic-logo.png">
+
+### **Faculty Mentors** 
+
+### **Mark Clytus** 
 <img 
   style="float: right;" 
-  src="https://avatars.githubusercontent.com/u/166766965?s=400&u=e4cebfdc9d137f08962108c8e334d832bd2112fd&v=4"  
+  src="LINK-TO-IMAGE-GOES-HERE" 
   width="125" height="125">
   
-  * Computer Information Technology
-  * <a href="mailto: albers.skylar@stu.uttc.edu" target="_blank">**Email**</a>
-  * <a href="https://salbers34.github.io/" target="_blank">**Website**</a>
+  * TITLE-GOES-HERE
+  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
+  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
+
+***
+
+### **ESIIL Interns** 
+(please add your profiles)
+
+
+### **Jeremy Maker**
+<img 
+  style="float: right;" 
+  src="LINK-TO-IMAGE-GOES-HERE" 
+  width="125" height="125">
   
+  * TITLE-GOES-HERE
+  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
+  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
+
+***
+
+### **Jason Slick**
+<img 
+  style="float: right;" 
+  src="LINK-TO-IMAGE-GOES-HERE" 
+  width="125" height="125">
+  
+  * TITLE-GOES-HERE
+  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
+  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
+  
+***
+
+### **Julius Hostetler**
+<img 
+  style="float: right;" 
+  src="LINK-TO-IMAGE-GOES-HERE" 
+  width="125" height="125">
+  
+  * TITLE-GOES-HERE
+  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
+  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
+  
+***
+
+### **Karlena Bennet**
+<img 
+  style="float: right;" 
+  src="LINK-TO-IMAGE-GOES-HERE" 
+  width="125" height="125">
+  
+  * TITLE-GOES-HERE
+  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
+  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
+
+***
+
 ## **Advanced Interns** 
 
-### **Kianna Stroh** 
+### **Rachel Sadler** 
 
 <img 
   style="float: right;" 
-  src="https://avatars.githubusercontent.com/u/128726312?v=4" 
+  src="LINK-TO-IMAGE-GOES-HERE" 
   width="125" height="125">
   
-  * Environmental Science & Research - Senior
-  * <a href="mailto: stroh.kianna@stu.uttc.edu" target="_blank">**Email**</a>
-  * <a href="https://kistroh.github.io/Kistroh-esiil-stars-webpage/" target="_blank">**Website**</a>
+  * TITLE-GOES-HERE
+  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
+  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
 
 ***
 
@@ -288,39 +370,25 @@ nav_order: 2
 
 <img 
   style="float: right;" 
-  src="https://github.com/sdupree27886/sdupree/blob/main/AIHEC_headshot_cropped.png?raw=true" 
+  src="LINK-TO-IMAGE-GOES-HERE" 
   width="125" height="125">
   
-  * OLC - Conservation Biology - Junior
-  * <a href="mailto: sdupree27886@olc.edu" target="_blank">**Email**</a>
-  * <a href="https://sdupree27886.github.io/sdupree/" target="_blank">**Website**</a>
+  * TITLE-GOES-HERE
+  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
+  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
 
 ***
 
-### **Eva Weddell** 
+### **Michela Johnson** 
 
 <img 
   style="float: right;" 
-  src="https://user-images.githubusercontent.com/127869863/225917439-27c8abbd-e51c-4826-9f9a-bce48a1c4297.jpg" 
+  src="LINK-TO-IMAGE-GOES-HERE" 
   width="125" height="125">
   
-  * OLC - Conservation Biology Class of 2024
-  * <a href="mailto: eweddell26630@olc.edu" target="_blank">**Email**</a>
-  * <a href="https://evaweddell.github.io/evaweddell-esiil-stars-webpage/" target="_blank">**Website**</a>
-
-***
-
-### **Rosie Patrick**
-
-<img 
-  style="float: right;" 
-  src="https://github.com/finalfemme/Rosie-esiil-stars/blob/main/20240426_114221_square.jpg?raw=true" 
-  width="125" height="125">
-  
-  * MSU Denver- Environmental Science Major, Biology Minor
-  * Class of Spring 2024
-  * <a href="mailto:kpatric4@msudenver.edu" target="_blank">**Email**</a>
-  * <a href="https://github.com/finalfemme" target="_blank">**Website**</a>
+  * TITLE-GOES-HERE
+  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
+  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
 
 ***
 
@@ -331,6 +399,6 @@ nav_order: 2
   src="https://github.com/ESIILtest24/ESIILtest24.github.io/blob/main/img/pika.jpeg?raw=true" 
   width="125" height="125">
   
-  * 2024 Summer ESIIL Test Intern
+  * 2025 Summer ESIIL Test Intern
   * <a href = "mailto:ESIILtest24@gmail.com" target="_blank">**Email**</a>
   * <a href = "https://esiiltest24.github.io" target="_blank">**Website**</a>
