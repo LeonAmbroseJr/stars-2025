@@ -8,7 +8,7 @@ nav_order: 2
   src="https://media.licdn.com/dms/image/v2/D5622AQEqggMIxurKHQ/feedshare-shrink_1280/B56ZcdFkc2G0Ak-/0/1748539689583?e=1755734400&v=beta&t=WqHKkYXX0Ocypc7gHnFcBa4cr3mKtQxwpveKJZ6rT14"
   width="750">
 
-## ESIIL
+# ESIIL
 
 ### **Nate Quarderer** 
 
@@ -62,14 +62,14 @@ nav_order: 2
 
 ***
 
-## Metropolitan State University of Denver (MSU)
+# Metropolitan State University of Denver (MSU)
 
 <img 
   style="float: " 
   src="https://upload.wikimedia.org/wikipedia/en/7/71/Msu_denver_roadrunners_logo.png" 
   width="125" height="125">
 
-### **Faculty Mentors** 
+## **Faculty Mentors** 
 
 ### **Andong Ma**
 <img 
@@ -83,7 +83,7 @@ nav_order: 2
 
 ***
 
-### **ESIIL Interns**
+## **ESIIL Interns**
 
 (please add your profiles)
 
@@ -129,11 +129,11 @@ nav_order: 2
 
 ***
 
-## Oglala Lakota College (OLC)
+# Oglala Lakota College (OLC)
 
 ![Oglala Lakota College](https://www.olc.edu/theme/olc/images/logo.png)
 
-### **Faculty Mentors** 
+## **Faculty Mentors** 
 
 ### **Dana Gehring**
 <img 
@@ -160,7 +160,19 @@ nav_order: 2
 
 ***
 
-### **ESIIL Interns** 
+### **Elisha Yellow Thunder**
+<img 
+  style="float: right;" 
+  src="LINK-TO-IMAGE-GOES-HERE" 
+  width="125" height="125">
+  
+  * TITLE-GOES-HERE
+  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
+  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
+  
+***
+
+## **ESIIL Interns** 
 (please add your profiles)
 
 
@@ -219,11 +231,11 @@ nav_order: 2
 
 ***
 
-## Haskell Indian Nations University
+# Haskell Indian Nations University
 
 <img src="https://tribalcollegejournal.org//wp-content/uploads/HaskellIndianNations.jpg">
 
-### **Faculty Mentors** 
+## **Faculty Mentors** 
 
 ### **Stephanie Willis** 
 <img 
@@ -280,12 +292,12 @@ nav_order: 2
 
 ***
 
-## San Carlos Apache College / Tohono O’odham Community College
+# San Carlos Apache College / Tohono O’odham Community College
 
 <img src="https://media.licdn.com/dms/image/v2/C4D0BAQF0ByCqA3tPsw/company-logo_200_200/company-logo_200_200/0/1679064540779/sancarlosapachecollege_logo?e=2147483647&v=beta&t=bbkfnuNTmUI4IvVZ1eKXIQc22DPGeVkYYebYUsyiSJw">
 <img src="https://wsos-cdn.s3.us-west-2.amazonaws.com/uploads/sites/90/graphic-logo.png">
 
-### **Faculty Mentors** 
+## **Faculty Mentors** 
 
 ### **Mark Clytus** 
 <img 
@@ -299,7 +311,7 @@ nav_order: 2
 
 ***
 
-### **ESIIL Interns** 
+## **ESIIL Interns** 
 (please add your profiles)
 
 
