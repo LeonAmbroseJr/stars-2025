@@ -118,7 +118,7 @@ nav_order: 2
 
 <img 
   style="float: right;" 
-  src="(https://i.postimg.cc/7PB8tDsV/prof-photo.jpg)" 
+  src="https://i.postimg.cc/7PB8tDsV/prof-photo.jpg" 
   width="125" height="125">
   
   * Geospatial Analyst
