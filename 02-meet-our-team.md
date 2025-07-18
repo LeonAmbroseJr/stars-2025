@@ -193,11 +193,11 @@ nav_order: 2
 
 <img 
   style="float: right;" 
-  src="LINK-TO-IMAGE-GOES-HERE" 
+  src="img/RRF_210623_1498.jpg" 
   width="125" height="125">
   
   * Business and Natural Science student
-  * <a href="mailtwo:ctwo22342@olc.edu" target="_blank">**Click To Email**</a>
+  * <a href="mailto:ctwo22342@olc.edu" target="_blank">**Click To Email**</a>
   * <a href="https://github.com/CalobTwoHearts">**My Github Portfolio**</a>
 
 
