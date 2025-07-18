@@ -196,9 +196,9 @@ nav_order: 2
   src="LINK-TO-IMAGE-GOES-HERE" 
   width="125" height="125">
   
-  * TITLE-GOES-HERE
-  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
-  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
+  * Business and Natural Science student
+  * <a href="mailtwo:ctwo22342@olc.edu" target="_blank">**Click To Email**</a>
+  * <a href="https://github.com/CalobTwoHearts">**My Github Portfolio**</a>
 
 
 ***
