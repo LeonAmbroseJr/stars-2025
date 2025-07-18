@@ -239,7 +239,7 @@ nav_order: 2
 ### **Stephanie Willis** 
 <img 
   style="float: right;" 
-  src="LINK-TO-IMAGE-GOES-HERE" 
+  src="img/Stephanie-5.jpg" 
   width="125" height="125">
   
   * Geography/GIS Instructor & Researcher, Rising Voices, Changing Coasts NSF Grant, Haskell Indian Nations University
