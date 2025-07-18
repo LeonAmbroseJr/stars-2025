@@ -78,7 +78,7 @@ nav_order: 2
   width="125" height="125">
   
   * TITLE-GOES-HERE
-  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
+  * <a href="mailto: ncowpert@msudenver.edu@gmail.com" target="_blank">**Email**</a>
   * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
 
 ***
@@ -92,12 +92,12 @@ nav_order: 2
 
 <img 
   style="float: right;" 
-  src="LINK-TO-IMAGE-GOES-HERE" 
+  src="https://github.com/noahcowper.png" 
   width="125" height="125">
   
-  * TITLE-GOES-HERE
-  * <a href="LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
-  * <a href="LINK-TO-GITHUB-GOES-HERE" target="_blank">**Website**</a>
+  * Senior Undergraduate Student of Geography and GIS
+  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
+  * <a href="https://noahcowper.github.io/" target="_blank">**Website**</a>
 
 ***
 
