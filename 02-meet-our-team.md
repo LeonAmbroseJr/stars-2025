@@ -49,7 +49,7 @@ nav_order: 2
 
 ***
 
-### **Lilly Jones-Sanovia** 
+### **Lilly Jones** 
 
 <img 
   style="float: right;" 
