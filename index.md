@@ -11,7 +11,7 @@ nav_order: 1
 
 We are excited to have you in class for the next 5 months as we introduce you to **Earth and Environmental Data Science (EDS)** fundamentals using <a href="https://www.python.org/" target="_blank">**Python**</a>. 
 
-This work represents a partnership between **Oglala Lakota College** (<a href="https://www.olc.edu/" target="_blank">**OLC**</a>), **Metropolitan State University of Denver** (<a href="https://www.msudenver.edu/" target="_blank">**MSU**</a>), **United Tribes Technical College** (<a href="https://uttc.edu/" target="_blank">**UTTC**</a>), and **The Environmental Data Science Innovation and Inclusion Lab** (<a href="https://esiil.org/" target="_blank">**ESIIL**</a>). ESIIL is a part of the Cooperative Institute for Research in Environmental Sciences (<a href="https://cires.colorado.edu/" target="_blank">**CIRES**</a>) a partnership of the <a href="https://www.colorado.edu/" target="_blank">**University of Colorado Boulder**</a> and the National Oceanic and Atmospheric Administration (<a href="https://www.noaa.gov/" target="_blank">**NOAA**</a>). We are also affiliated with <a href="https://earthlab.colorado.edu/" target="_blank">**Earth Lab**</a>.  
+This work represents a partnership between **Oglala Lakota College** (<a href="https://www.olc.edu/" target="_blank">**OLC**</a>), **Metropolitan State University of Denver** (<a href="https://www.msudenver.edu/" target="_blank">**MSU**</a>), **Haskell Indian Nations University** (<a href="https://haskell.edu/" target="_blank">**HINU**</a>), **San Carlos Apache College & Tohono O’odham Community College** (<a href="https://www.apachecollege.org/about/" target="_blank">**SCAC/TOCC**</a>) , and **The Environmental Data Science Innovation and Impact Lab** (<a href="https://esiil.org/" target="_blank">**ESIIL**</a>). ESIIL is a part of the Cooperative Institute for Research in Environmental Sciences (<a href="https://cires.colorado.edu/" target="_blank">**CIRES**</a>) a partnership of the <a href="https://www.colorado.edu/" target="_blank">**University of Colorado Boulder**</a> and the National Oceanic and Atmospheric Administration (<a href="https://www.noaa.gov/" target="_blank">**NOAA**</a>). We are also the sister lab of <a href="https://earthlab.colorado.edu/" target="_blank">**Earth Lab**</a>.  
 
 We appreciate these partnerships and look forward to working with you all!
 
@@ -30,11 +30,11 @@ ESIIL Stars aims to meet the following objectives through technical training and
   
 ## Internship Expectations
 
-* **Spring Training** (March - May)
-  * **5-10** hrs/wk
-  * Attend weekly team check-ins
-  * Complete weekly assignments
-* **Summer Group Projects** (June - August)
+* **Spring Training** (May 20-22, Boulder, CO)
+  * **5-10** hrs/day
+  * Attend in-person training session
+  * Complete coding challenges
+* **Summer Group Projects** (June - July)
   * **15-20** hrs/wk
   * Attend regular team check-ins
   * Attend weekly large-group meetings
