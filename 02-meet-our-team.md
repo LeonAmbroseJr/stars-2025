@@ -318,8 +318,8 @@ nav_order: 2
   width="125" height="125">
   
   * TITLE-GOES-HERE
-  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
-  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
+  * <a href="mailto:Jeremy.Maker@tocc.edu" target="_blank">**Email**</a>
+  * <a href="(https://jeremyfour.github.io/)">**Website**</a>
 
 ***
 
