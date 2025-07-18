@@ -106,7 +106,7 @@ nav_order: 2
 <img 
   style="float: right;" 
   src="img/ESIIL Profile Picture.png" 
-  height="125">
+  width="125" height="125">
   
   * GIS Professional
   * <a href="mailto:AdamLehman777@gmail.com" target="_blank">**Click here to Email me**</a>
