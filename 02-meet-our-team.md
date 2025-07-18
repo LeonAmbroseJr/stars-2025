@@ -105,7 +105,7 @@ nav_order: 2
 
 <img 
   style="float: right;" 
-  src="LINK-TO-IMAGE-GOES-HERE" 
+  src="img/ESIIL Profile Picture.png" 
   width="125" height="125">
   
   * GIS Professional
