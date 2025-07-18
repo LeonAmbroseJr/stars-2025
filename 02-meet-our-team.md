@@ -118,13 +118,13 @@ nav_order: 2
 
 <img 
   style="float: right;" 
-  src="LINK-TO-IMAGE-GOES-HERE" 
+  src="https://i.postimg.cc/7PB8tDsV/prof-photo.jpg" 
   width="125" height="125">
   
-  * TITLE-GOES-HERE
-  * <a href="LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
-  * <a href="LINK-TO-GITHUB-GOES-HERE" target="_blank">**Website**</a>
-  
+  * Geospatial Analyst
+  *  <a href="mailto:km38191@gmail.com" target="_blank">Email</a>
+  *  <a href="https://lakevs14.github.io/ProfWeb1/" target="_blank">Portfolio</a>
+  *  <a href="https://www.linkedin.com/in/kevin-morales-69816b288/" target="_blank">Linkedin Profile</a>
 
 ***
 
