@@ -76,7 +76,7 @@ nav_order: 2
   style="float: right;" 
   src="https://anma-msudenver.github.io/img/IMG_01802_clip.jpg" 
   width="125" height="125">
-  
+
   * Assistant Professor of GIS
   * <a href="mailto: anma@msudenver.edu" target="_blank">**Email**</a>
   * <a href="https://anma-msudenver.github.io/">**Website**</a>
@@ -92,12 +92,12 @@ nav_order: 2
 
 <img 
   style="float: right;" 
-  src="LINK-TO-IMAGE-GOES-HERE" 
+  src="https://github.com/noahcowper.png" 
   width="125" height="125">
   
-  * TITLE-GOES-HERE
-  * <a href="LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
-  * <a href="LINK-TO-GITHUB-GOES-HERE" target="_blank">**Website**</a>
+  * Senior Undergraduate Student of Geography and GIS
+  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
+  * <a href="https://sites.google.com/view/noahcowperthwaite/about?authuser=0" target="_blank">**Web Portfolio**</a>
 
 ***
 
@@ -105,12 +105,12 @@ nav_order: 2
 
 <img 
   style="float: right;" 
-  src="LINK-TO-IMAGE-GOES-HERE" 
+  src="img/ESIIL Profile Picture.png" 
   width="125" height="125">
   
-  * TITLE-GOES-HERE
-  * <a href="LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
-  * <a href="LINK-TO-GITHUB-GOES-HERE" target="_blank">**Website**</a>
+  * GIS Professional
+  * <a href="mailto:AdamLehman777@gmail.com" target="_blank">**Click here to Email me**</a>
+  * <a href="https://Adam-Lehman.github.io" target="_blank">**Link to my GIS Portfolio**</a>
 
 ***
 
@@ -118,13 +118,13 @@ nav_order: 2
 
 <img 
   style="float: right;" 
-  src="LINK-TO-IMAGE-GOES-HERE" 
+  src="https://i.postimg.cc/7PB8tDsV/prof-photo.jpg" 
   width="125" height="125">
   
-  * TITLE-GOES-HERE
-  * <a href="LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
-  * <a href="LINK-TO-GITHUB-GOES-HERE" target="_blank">**Website**</a>
-  
+  * Geospatial Analyst
+  *  <a href="mailto:km38191@gmail.com" target="_blank">Email</a>
+  *  <a href="https://lakevs14.github.io/ProfWeb1/" target="_blank">Portfolio</a>
+  *  <a href="https://www.linkedin.com/in/kevin-morales-69816b288/" target="_blank">Linkedin Profile</a>
 
 ***
 
@@ -239,12 +239,12 @@ nav_order: 2
 ### **Stephanie Willis** 
 <img 
   style="float: right;" 
-  src="LINK-TO-IMAGE-GOES-HERE" 
+  src="img/Stephanie-5.jpg" 
   width="125" height="125">
   
-  * TITLE-GOES-HERE
-  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
-  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
+  * Geography/GIS Instructor & Researcher, Rising Voices, Changing Coasts NSF Grant, Haskell Indian Nations University
+  * <a href="mailto:swillis@haskell.edu" target="_blank">**Email**</a>
+  * <a href="https://swillis88.github.io">**Website**</a>
 
 ***
 
@@ -318,8 +318,8 @@ nav_order: 2
   width="125" height="125">
   
   * TITLE-GOES-HERE
-  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
-  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
+  * <a href="mailto:Jeremy.Maker@tocc.edu" target="_blank">**Email**</a>
+  * <a href="(https://jeremyfour.github.io/)">**Website**</a>
 
 ***
 
