@@ -108,9 +108,9 @@ nav_order: 2
   src="LINK-TO-IMAGE-GOES-HERE" 
   width="125" height="125">
   
-  * TITLE-GOES-HERE
-  * <a href="LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
-  * <a href="LINK-TO-GITHUB-GOES-HERE" target="_blank">**Website**</a>
+  * GIS Professional
+  * <a href="mailto:AdamLehman777@gmail.com" target="_blank">**Click here to Email me**</a>
+  * <a href="https://Adam-Lehman.github.io" target="_blank">**Link to my GIS Portfolio**</a>
 
 ***
 
