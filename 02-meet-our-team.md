@@ -124,7 +124,6 @@ nav_order: 2
   * TITLE-GOES-HERE
   * <a href="LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
   * <a href="LINK-TO-GITHUB-GOES-HERE" target="_blank">**Website**</a>
-  ***
   
 
 ***
@@ -286,9 +285,6 @@ nav_order: 2
   * TITLE-GOES-HERE
   * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
   * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
-  
-***
-
 
 ***
 
