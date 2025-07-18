@@ -74,12 +74,12 @@ nav_order: 2
 ### **Andong Ma**
 <img 
   style="float: right;" 
-  src="LINK-TO-IMAGE-GOES-HERE" 
+  src="https://anma-msudenver.github.io/img/IMG_01802_clip.jpg" 
   width="125" height="125">
   
-  * TITLE-GOES-HERE
-  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
-  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
+  * Assistant Professor of GIS
+  * <a href="mailto: anma@msudenver.edu" target="_blank">**Email**</a>
+  * <a href="https://anma-msudenver.github.io/">**Website**</a>
 
 ***
 
