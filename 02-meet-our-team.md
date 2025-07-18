@@ -97,7 +97,7 @@ nav_order: 2
   
   * Senior Undergraduate Student of Geography and GIS
   * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
-  * <a href="https://noahcowper.github.io/" target="_blank">**Website**</a>
+  * <a href="https://sites.google.com/view/noahcowperthwaite/about?authuser=0" target="_blank">**Web Portfolio**</a>
 
 ***
 
