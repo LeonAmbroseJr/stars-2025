@@ -207,12 +207,13 @@ nav_order: 2
 
 <img 
   style="float: right;" 
-  src="LINK-TO-IMAGE-GOES-HERE" 
-  width="125" height="125">
+  src="<img width="125" height="125" alt="image" src="https://github.com/user-attachments/assets/38d54f36-cbe1-41ac-a689-36b89bd5df38" />
+" 
+ width="125" height="125">
   
-  * TITLE-GOES-HERE
-  * <a href="mailto: LINK-TO-EMAIL-GOES-HERE" target="_blank">**Email**</a>
-  * <a href="LINK-TO-GITHUB-GOES-HERE">**Website**</a>
+  * Associate of Applied Science/Automotive Technolgy, Bachelor's/Information Technology (Current 2025/2026)student
+  * <a href="mailto: lred22341@olc.edu, leonredkettle@gmail.com" target="_blank">**Email**</a>
+  * <a href="https://github.com/LeonAmbroseJr," https://www.youtube.com/L3onR3dK3ttl3">**Website**</a>
 
 
 ***
